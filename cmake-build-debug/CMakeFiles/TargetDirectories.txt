@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Gamer/CLionProjects/IPv6_find_and_replace/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Gamer/CLionProjects/IPv6_find_and_replace/cmake-build-debug/CMakeFiles/IPv6_find_and_replace.dir
+/cygdrive/c/Users/Gamer/CLionProjects/IPv6_find_and_replace/cmake-build-debug/CMakeFiles/edit_cache.dir

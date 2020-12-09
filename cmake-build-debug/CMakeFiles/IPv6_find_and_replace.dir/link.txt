@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/IPv6_find_and_replace.dir/main.c.o  -o IPv6_find_and_replace.exe -Wl,--out-implib,libIPv6_find_and_replace.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
